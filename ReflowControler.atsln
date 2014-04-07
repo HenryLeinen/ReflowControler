@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ReflowControler", "ReflowControler\ReflowControler.cppproj", "{97C5AEBC-D005-4809-939A-1F2B8DF01686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C5AEBC-D005-4809-939A-1F2B8DF01686}.Debug|AVR.ActiveCfg = Debug|AVR
+		{97C5AEBC-D005-4809-939A-1F2B8DF01686}.Debug|AVR.Build.0 = Debug|AVR
+		{97C5AEBC-D005-4809-939A-1F2B8DF01686}.Release|AVR.ActiveCfg = Release|AVR
+		{97C5AEBC-D005-4809-939A-1F2B8DF01686}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
